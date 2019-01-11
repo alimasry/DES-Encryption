@@ -1,7 +1,7 @@
 //--------------------------------------------------------------
 //   Project 1 - Encryption and Decryption program
 //   Class:          <DES_encryption>
-//   Description:    <Encrypt/Decrypt using DES algorithm .>
+//   Description:    <Encryption Using DES Technique>
 //   Author:         <Ali El-Masry>        Date: <10/3/2018>
 //--------------------------------------------------------------
 
