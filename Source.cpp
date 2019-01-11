@@ -274,7 +274,7 @@ public:
 		R_32[0] = "";
 		R_32[0] = xor_add(P_R[0], L);
 
-		for (int i = 0; i < 16; i++)
+		for (int i = 1; i < 16; i++)
 
 		{
 			L_32[i] = R_32[i - 1];
